@@ -9,3 +9,15 @@ D:\WitBPM Project\WitBPM Project\WitBPM Platform\AXNPOI\bin\Debug\NPOI.OpenXml4N
 D:\WitBPM Project\WitBPM Project\WitBPM Platform\AXNPOI\bin\Debug\NPOI.OpenXmlFormats.dll
 D:\WitBPM Project\WitBPM Project\WitBPM Platform\AXNPOI\obj\x86\Debug\ConsoleApplication1.exe
 D:\WitBPM Project\WitBPM Project\WitBPM Platform\AXNPOI\obj\x86\Debug\ConsoleApplication1.pdb
+D:\git\NPOI\NPOI-Template\bin\Debug\ConsoleApplication1.exe.config
+D:\git\NPOI\NPOI-Template\obj\x86\Debug\ConsoleApplication1.exe
+D:\git\NPOI\NPOI-Template\obj\x86\Debug\ConsoleApplication1.pdb
+D:\git\NPOI\NPOI-Template\bin\Debug\Template\Template.xlsx
+D:\git\NPOI\NPOI-Template\bin\Debug\ConsoleApplication1.exe
+D:\git\NPOI\NPOI-Template\bin\Debug\ConsoleApplication1.pdb
+D:\git\NPOI\NPOI-Template\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\git\NPOI\NPOI-Template\bin\Debug\NPOI.dll
+D:\git\NPOI\NPOI-Template\bin\Debug\NPOI.OOXML.dll
+D:\git\NPOI\NPOI-Template\bin\Debug\NPOI.OpenXml4Net.dll
+D:\git\NPOI\NPOI-Template\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\git\NPOI\NPOI-Template\obj\x86\Debug\NPOI-Template.csprojResolveAssemblyReference.cache

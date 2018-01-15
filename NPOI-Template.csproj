@@ -56,6 +56,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Config\App.config" />
+    <None Include="LICENSE" />
+    <None Include="README.md" />
     <None Include="Template\Template.xlsx">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
@@ -64,6 +66,8 @@
     <Folder Include="OutPut\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="img\1.png" />
+    <Content Include="img\2.png" />
     <Content Include="Libraries\ICSharpCode.SharpZipLib.dll" />
     <Content Include="Libraries\NPOI.dll" />
     <Content Include="Libraries\NPOI.OOXML.dll" />
