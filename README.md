@@ -14,7 +14,7 @@ You can see the #key# tag will be converted into the corresponding Dictionary va
 [tmp] is a fixed template for the label, #{is named nested label field corresponding to the sub table, please modify other functions
 
 
-如需要可以发邮件laohuoye#qq.com
-
 核心代码参考Com文件夹的NPOItemplate.cs文件，代码可以直接运行的，其他的自己可以修改
+
+交流邮箱：laohuoye#qq.com
 
